@@ -1,7 +1,7 @@
 # Learn Python 3
 # The following materials are prepared and modified for the Math 9 course only.
 
-# Credits goes to Jerry Ebalunode, Ph.D., MBA – Senior Researcher (HPC). Email: jebalunode@uh.edu, University of Houston.
+# Credit goes to Jerry Ebalunode, Ph.D., MBA – Senior Researcher (HPC). Email: jebalunode@uh.edu, University of Houston.
 # https://github.com/jerry-git/learn-python3
 
 ## Beginner
