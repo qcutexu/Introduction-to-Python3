@@ -1,24 +1,8 @@
 # Learn Python 3
+# The following materials are prepared and modified for the Math 9 course only.
 
-## Introduction
-
-This repository contains a collection of materials for teaching/learning Python 3 (3.5+).
-
-#### Requirements
-* Have Python 3.5 or newer installed. You can check the version by typing `python3 --version` in your command line. You can download the latest Python version from [here](https://www.python.org/downloads/).
-* Have [Jupyter Notebook installed](http://jupyter.readthedocs.io/en/latest/install.html).
-
-If you can not access Python and/or Jupyter Notebook on your machine, you can still follow the web based materials. However, you should be able to use Jupyter Notebook in order to complete the exercises.
-
-#### Usage
-
-1. Clone or download this repository.
-2. Run `jupyter notebook` command in your command line in the repository directory.
-3. Jupyter Notebook session will open in the browser and you can start navigating through the materials.
-
-#### Contributing
-See [contributing](https://github.com/jerry-git/learn-python3/blob/master/CONTRIBUTING.md) guide.
-
+# Credits goes to Jerry Ebalunode, Ph.D., MBA – Senior Researcher (HPC). Email: jebalunode@uh.edu, University of Houston.
+# https://github.com/jerry-git/learn-python3
 
 ## Beginner
 1. [Strings](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/strings.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/strings.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/exercises/strings_exercise.ipynb)
