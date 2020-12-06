@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.png" alt="logo"/>
-</p>
-
 # Learn Python 3
 
 [![Build Status](https://travis-ci.org/jerry-git/learn-python3.svg?branch=master)](https://travis-ci.org/jerry-git/learn-python3)
