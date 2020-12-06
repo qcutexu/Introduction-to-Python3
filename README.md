@@ -43,7 +43,3 @@ See [contributing](https://github.com/jerry-git/learn-python3/blob/master/CONTRI
 
 
 
-
-
-## Credits
-* Logo: Abdur-Rahmaan Janhangeer, [@Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ)
